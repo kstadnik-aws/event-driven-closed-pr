@@ -1,0 +1,8 @@
+{
+    "pAccount": "475354260046",
+    "pRegion": "eu-west-1",
+    "pKMSAlias": "alias/aws/secretsmanager",
+    "pWebhookSecretName": "github-webhook-secret",
+    "pGitHubAcessTokenSecretName": "GitHubAccessToken",
+    "pPrToBranch": "develop"
+}
